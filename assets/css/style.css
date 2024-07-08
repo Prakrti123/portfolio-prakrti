@@ -333,7 +333,13 @@ main {
 
 .avatar-box {
   background: var(--bg-gradient-onyx);
-  border-radius: 20px;
+  border-radius: 24px;
+}
+
+.profile-img {
+  margin: 30px;
+  border-radius: 16%;
+  box-shadow: 0 4px 8px 0 rgba(39, 30, 30, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.452);
 }
 
 .info-content .name {
